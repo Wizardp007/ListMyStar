@@ -4,5 +4,5 @@
 
 
 ```
-![Wizardp's github stats](https://github-readme-stats.vercel.app/api?username=Wizardp007&show_icons=true&theme=vue-dark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wizardp007)](https://github.com/anuraghazra/github-readme-stats)
 ```
